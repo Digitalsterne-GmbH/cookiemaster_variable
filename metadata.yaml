@@ -1,0 +1,6 @@
+homepage: "https://www.digitalsterne.de"
+documentation: "https://wiki.digitalsterne.de/docs/cookie-master/"
+versions:
+  # Lastest versions
+  - sha: XXX
+    changeNotes: Initial release
